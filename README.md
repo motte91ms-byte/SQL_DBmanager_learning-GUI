@@ -22,4 +22,5 @@ demonstrates how to create tables, insert data, and execute queries using sqlite
 
 Start Python
 
+
 python Cat_DB.py
