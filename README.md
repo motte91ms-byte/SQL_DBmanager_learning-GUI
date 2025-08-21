@@ -1,7 +1,10 @@
 
-########################################
+
 #Python SQL Database (Practice Project)#
-########################################
+
+
+
+
 This Project is intended solely for practicing SQL and databases in combination with Python.
 demonstrates how to create tables, insert data, and execute queries using sqlite3 or another SQL engine (e.g., MySQL/MariaDB).
 
@@ -24,3 +27,4 @@ Start Python
 
 
 python Cat_DB.py
+
